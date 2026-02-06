@@ -1,4 +1,8 @@
 <style>
+  table {
+    border-collapse: collapse;
+  }
+  
   table.pronounsTbl td {
     border: 1px solid white;
     padding: 5px;
