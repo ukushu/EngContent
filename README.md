@@ -137,12 +137,27 @@
             <div>
               I<br>you<br>we<br>they<br>he<br>she
             </div>
-            <div>Love?</div>
-            <div class="red">Will</div>
+            <div>love?</div>
           </div>
         </td>
-        <td class="italic"></td>
-        <td class="italic">I<br>you<br>we<br>they<br>he<br>she</td>
+        <td>
+          <div style="display: flex; gap: 10px; align-items: flex-start;">
+            <div>
+              I<br>you<br>we<br>they<br>he<br>she
+            </div>
+            <div class="red">will</div>
+            <div>love</div>
+          </div>
+        </td>
+        <td>
+          <div style="display: flex; gap: 10px; align-items: flex-start;">
+            <div>
+              I<br>you<br>we<br>they<br>he<br>she
+            </div>
+            <div class="red">won't</div>
+            <div>Love</div>
+          </div>
+        </td>
     </tr>
     <tr>
         <td></td>
