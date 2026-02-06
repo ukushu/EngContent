@@ -65,7 +65,7 @@
 </style>
 
 
-<table class="myTable" data-cell="22">
+<table class="myTable" data-cell="32">
     <tr>
         <th>Запитання</th>
         <th>Ствердження</th>
