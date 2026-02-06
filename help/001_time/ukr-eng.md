@@ -23,7 +23,7 @@
     display: flex; 
     gap: 10px; 
     align-items: center; 
-    padding: 15px;
+    padding: 10px;
   }
 
   .verticalBlocks {
