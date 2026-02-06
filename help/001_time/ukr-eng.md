@@ -8,7 +8,7 @@
     vertical-align: middle;
   }
   .redText {
-    color: #CC0000;
+    color: #D46A6A;
     font-weight: bold;
   }
   .noun {
