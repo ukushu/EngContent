@@ -25,17 +25,17 @@
     
   }
 
-  table[data-cell="11"] .c11 { background: #FFE066; }
-  table[data-cell="12"] .c12 { background: #FFE066; }
-  table[data-cell="13"] .c13 { background: #FFE066; }
+  table[data-cell="11"] .c11 { background: #00AA00; }
+  table[data-cell="12"] .c12 { background: #00AA00; }
+  table[data-cell="13"] .c13 { background: #00AA00; }
   
-  table[data-cell="21"] .c21 { background: #FFE066; }
-  table[data-cell="22"] .c22 { background: #FFE066; }
-  table[data-cell="23"] .c23 { background: #FFE066; }
+  table[data-cell="21"] .c21 { background: #00AA00; }
+  table[data-cell="22"] .c22 { background: #00AA00; }
+  table[data-cell="23"] .c23 { background: #00AA00; }
   
-  table[data-cell="31"] .c31 { background: #FFE066; }
-  table[data-cell="32"] .c32 { background: #FFE066; }
-  table[data-cell="33"] .c33 { background: #FFE066; }
+  table[data-cell="31"] .c31 { background: #00AA00; }
+  table[data-cell="32"] .c32 { background: #00AA00; }
+  table[data-cell="33"] .c33 { background: #00AA00; }
 
 </style>
 
