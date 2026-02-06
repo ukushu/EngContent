@@ -63,7 +63,7 @@
   <td class="noLeftBorder">Him</td>
 </tr>
 <tr>
-  <td class="pronoun noRightBorder"><span>Вона</td>
+  <td class="pronoun noRightBorder">Вона</td>
   <td class="noLeftBorder">She</td>
   <td class="pronoun noRightBorder">Її</td>
   <td class="noLeftBorder">Her</td>
