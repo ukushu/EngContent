@@ -2,6 +2,12 @@
   table {
     border-collapse: collapse;
   }
+  
+  table.articlesTbl td {
+    border: 0px solid white;
+    padding: 5px;
+    vertical-align: middle;
+  }
 
   .grayText {
     color: #888888;
@@ -11,7 +17,7 @@
 
 <h3>Артиклі</h3>
 
-<table>
+<table class="articlesTbl">
   <tr>
     <td>a</td>
     <td class="grayText">any</td>
