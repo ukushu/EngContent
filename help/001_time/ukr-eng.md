@@ -40,7 +40,7 @@
 </style>
 
 
-<table class="myTable">
+<table class="myTable" data-cell="11">
     <tr>
         <th>Запитання</th>
         <th>Ствердження</th>
