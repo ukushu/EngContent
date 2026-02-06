@@ -84,21 +84,13 @@
           <div class="verticalBlocks">
             <div class="horizontalBlocks">
               <div class="redText">Do</div>
-              <div class="noun">
-                 I<br>you<br>we<br>they
-              </div>
-              <div>
-                 love
-              </div>
+              <div class="noun">I<br>you<br>we<br>they</div>
+              <div>love</div>
             </div>
             <div class="horizontalBlocks">
               <div class="redText">Does</div>
-              <div class="noun">
-                 he<br>she
-              </div>
-              <div>
-                 love
-              </div>
+              <div class="noun">he<br>she</div>
+              <div>love</div>
             </div>
           </div>
         </td>
