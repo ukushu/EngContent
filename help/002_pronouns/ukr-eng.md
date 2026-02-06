@@ -9,12 +9,12 @@
     vertical-align: middle;
   }
 
-  .pronoun.noRightBorder + td {
-      border-left: none;
+  table.pronounsTbl td.noRightBorder {
+      border-right: none;
   }
-
-  .pronoun.noLeftBorder {
-    border-left: none;
+  
+  table.pronounsTbl td.noLeftBorder {
+      border-left: none;
   }
   
   .pronoun {
