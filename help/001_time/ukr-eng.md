@@ -12,7 +12,8 @@
     font-weight: bold;
   }
   .highlight {
-    background-color: #FFF3B0;
+    color: #CC0000;
+    background-color: rgba(255, 243, 176, 0.5)
   }
   
   .noun {
