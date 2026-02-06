@@ -40,6 +40,16 @@
   table[data-cell="32"] .c32 { background: rgba(0, 140, 0, 0.3); }
   table[data-cell="33"] .c33 { background: rgba(0, 140, 0, 0.3); }
 
+  /* за замовчуванням ховаємо */
+  .wrongNounsHelp {
+    display: none; 
+  }
+  
+  /* показуємо, якщо таблиця має data-cell="32" */
+  .myTable[data-cell="32"] ~ .wrongNounsHelp {
+    display: block;
+  }
+
 </style>
 
 
@@ -144,18 +154,20 @@
 </table>
 <br>
 
-<h2>Скорочення:</h2>
-<ul>
-  <li>"won't" = "will not"</li>
-  <li>"don't" = "do not"</li>
-  <li>"doesn't" = "does not"</li>
-  <li>"didn't" = "did not"</li>
-</ul>
+<div>
+  <ul>
+    <li>"won't" = "will not"</li>
+    <li>"don't" = "do not"</li>
+    <li>"doesn't" = "does not"</li>
+    <li>"didn't" = "did not"</li>
+  </ul>
+</div>
 
-<h2>Правильні та неправильні дієслова</h2>
-<ul>
-  <li>Правильні дієслова в минулому часі отримують закінчення <span class="redText">-ed</span>.</li>
-  <li>Неправильні дієслова можуть виглядати будь-як і їх варто запам'ятати</li>
-</ul>
-
+<div class="wrongNounsHelp">
+  <h2>Правильні та неправильні дієслова</h2>
+  <ul>
+    <li>Правильні дієслова в минулому часі отримують закінчення <span class="redText">-ed</span>.</li>
+    <li>Неправильні дієслова можуть виглядати будь-як і їх варто запам'ятати</li>
+  </ul>
+</div>
 
