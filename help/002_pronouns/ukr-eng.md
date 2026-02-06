@@ -9,11 +9,11 @@
     vertical-align: middle;
   }
 
-  .noRightBorder {
-      border-right: none;
+  .pronoun.noRightBorder + td {
+      border-left: none;
   }
 
-  .noLeftBorder {
+  .pronoun.noLeftBorder {
     border-left: none;
   }
   
