@@ -90,10 +90,10 @@
   <th colspan="6">Про предмети</th>
 </tr>
 <tr>
-  <td colspan="3"  class="pronoun noRightBorder">
+  <td colspan="3" class="pronoun noRightBorder">
       I<br>you<br>we<br>they<br>he<br>she
   </td>
-  <td colspan="3">
+  <td colspan="3" class="noLeftBorder">
     It
   </td>
 </tr>
