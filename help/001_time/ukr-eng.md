@@ -120,8 +120,6 @@
     </tr>
 </table>
 <br>
-<br>
-<ul>
   <li>"won't" = "will not"</li>
   <li>"don't" = "do not"</li>
   <li>"doesn't" = "does not"</li>
