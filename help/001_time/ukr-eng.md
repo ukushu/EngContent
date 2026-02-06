@@ -21,6 +21,10 @@
     padding: 15px;
   }
 
+  .verticalBlocks {
+    
+  }
+
 </style>
 
 
@@ -59,11 +63,6 @@
             <div>love</div>
           </div>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td class="redText">will</td>
-        <td class="redText">won't</td>
     </tr>
     <tr>
         <td>
