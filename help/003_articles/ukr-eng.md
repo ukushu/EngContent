@@ -16,7 +16,6 @@
     <td>a</td>
     <td class="grayText">any</td>
     <td>будь-який предмет</td>
-    <td>Один з багатьох, не конкретний</td>
   </tr>
   <tr>
     <td>an</td>
