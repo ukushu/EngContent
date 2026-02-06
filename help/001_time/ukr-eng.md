@@ -23,7 +23,9 @@
   }
 
   .verticalBlocks {
-    
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
   }
 
   table[data-cell="11"] .c11 { background: rgba(0, 140, 0, 0.3); }
@@ -79,8 +81,26 @@
     </tr>
     <tr>
         <td class="c21">
-            <span class="redText">Do</span><br>
-            <span class="redText">Does</span>
+          <div class="verticalBlocks">
+            <div class="horizontalBlocks">
+              <div class="redText">Do</div>
+              <div class="noun">
+                 I<br>you<br>we<br>they
+              </div>
+              <div>
+                 love
+              </div>
+            </div>
+            <div class="horizontalBlocks">
+              <div class="redText">Does</div>
+              <div class="noun">
+                 he<br>she
+              </div>
+              <div>
+                 love
+              </div>
+            </div>
+          </div>
         </td>
         <td class="c22">
             <div class="noun">
