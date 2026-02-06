@@ -120,3 +120,59 @@
   <li>Варто розвивати сприймання на слух ріхних акцентів!</li>
   <li>Це все разом задасть тобі здібність дуже детально розбирати що кажуть люди, бо твій мозок звикне намагатися розбирати те що вони кажуть на більшій складності(швидкості), аніж те що ти чутимеш вживу.</li>
 </ul>
+
+
+
+<table style="border-collapse: collapse; width: 100%; max-width: 600px; margin: 0 auto; color: white; font-family: Arial, sans-serif;">
+    <tr>
+        <th style="border: 1px solid white; padding: 10px;">Вопрос</th>
+        <th style="border: 1px solid white; padding: 10px;">Утверждение</th>
+        <th style="border: 1px solid white; padding: 10px;">Отрицание</th>
+        <th rowspan="3" style="border: 1px solid white; padding: 10px; writing-mode: vertical-rl; transform: rotate(180deg); font-weight: bold;">Будущее</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">Will</td>
+        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
+        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">will</td>
+        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">won't</td>
+    </tr>
+
+    <tr>
+        <th style="border: 1px solid white; padding: 10px;">Вопрос</th>
+        <th style="border: 1px solid white; padding: 10px;">Утверждение</th>
+        <th style="border: 1px solid white; padding: 10px;">Отрицание</th>
+        <th rowspan="2" style="border: 1px solid white; padding: 10px; writing-mode: vertical-rl; transform: rotate(180deg); font-weight: bold;">Настоящее</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">Do<br>Does</td>
+        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
+        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">loves</td>
+        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">don't<br>doesn't</td>
+    </tr>
+
+    <tr>
+        <th style="border: 1px solid white; padding: 10px;">Вопрос</th>
+        <th style="border: 1px solid white; padding: 10px;">Утверждение</th>
+        <th style="border: 1px solid white; padding: 10px;">Отрицание</th>
+        <th rowspan="1" style="border: 1px solid white; padding: 10px; writing-mode: vertical-rl; transform: rotate(180deg); font-weight: bold;">Прошлое</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">Did</td>
+        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
+        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">loved</td>
+        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">didn't</td>
+    </tr>
+</table>
+
