@@ -115,10 +115,18 @@
           </div>
         </td>
         <td class="c23">
-            <div class="noun">
-               I<br>you<br>we<br>they<br>he<br>she
+          <div class="verticalBlocks">
+            <div class="horizontalBlocks">
+              <div class="noun">I<br>you<br>we<br>they</div>
+              <div class="redText">don't</div>
+              <div>love</div>
             </div>
-            <span class="redText">don't</span><br><span class="redText">doesn't</span>
+            <div class="horizontalBlocks">
+              <div class="noun">he<br>she</div>
+              <div class="redText">doesn't</div>
+              <div>love</div>
+            </div>
+          </div>
         </td>
         <th class="side-label">Теперішнє</th>
     </tr>
