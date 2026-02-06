@@ -31,7 +31,7 @@
   .verticalBlocks {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 0px;
   }
 
   .smallGrayText {
