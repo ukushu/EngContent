@@ -129,7 +129,7 @@
         <td class="c32">
           <div class="horizontalBlocks">
             <div class="noun">I<br>you<br>we<br>they<br>he<br>she</div>
-            <div>love<span class="redText">d</span></div>
+            <div>lov<span class="redText">ed</span></div>
           </div>
         </td>
         <td class="c33">
@@ -143,12 +143,19 @@
     </tr>
 </table>
 <br>
+
+<h1>Скорочення:</h1>
+<ul>
   <li>"won't" = "will not"</li>
   <li>"don't" = "do not"</li>
   <li>"doesn't" = "does not"</li>
   <li>"didn't" = "did not"</li>
 </ul>
 
-
+<h1>Правильні та неправильні дієслова</h1>
+<ul>
+  <li>Правильні дієслова в ствердженнях минулого часу модифікуються на закінчення <span class="red">ed</span></li>
+  <li>Неправильні дієслова можуть виглядати будь-як і їх варто запам'ятати</li>
+</ul>
 
 
