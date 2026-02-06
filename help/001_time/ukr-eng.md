@@ -9,7 +9,12 @@
   }
   .redText {
     color: #CC0000;
+    font-weight: bold;
   }
+  .highlight {
+    background-color: #FFF3B0;
+  }
+  
   .noun {
       color: #AAAAAA;
   }
@@ -85,7 +90,7 @@
             <div class="noun">
                I<br>you<br>we<br>they<br>he<br>she
             </div>
-            <span class="redText">loves</span>
+            <span class="redText">love</span><span class="highlight">s</span>
         </td>
         <td class="c23">
             <div class="noun">
