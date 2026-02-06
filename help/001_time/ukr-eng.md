@@ -11,11 +11,6 @@
     color: #CC0000;
     font-weight: bold;
   }
-  .highlight {
-    color: #CC0000;
-    background-color: rgba(255, 00, 00, 0.1)
-  }
-  
   .noun {
       color: #AAAAAA;
   }
@@ -91,7 +86,7 @@
             <div class="noun">
                I<br>you<br>we<br>they<br>he<br>she
             </div>
-            <span class="redText">love</span><span class="highlight">s</span>
+            love<span class="redText">s</span>
         </td>
         <td class="c23">
             <div class="noun">
@@ -109,7 +104,7 @@
             <div class="noun">
                I<br>you<br>we<br>they<br>he<br>she
             </div>
-          <div class="redText">loved</div>
+          <div>lov<span class="redText">ed</span></div>
         </td>
         <td class="c33">
             <div class="noun">
