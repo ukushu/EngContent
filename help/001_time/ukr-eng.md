@@ -31,6 +31,7 @@
   .smallGrayText {
     color: #888888;
     font-size: 10px;
+    font-weight: 300;    /* тонкий / light */
   }
 
   table[data-cell="11"] .c11 { background: rgba(0, 140, 0, 0.3); }
