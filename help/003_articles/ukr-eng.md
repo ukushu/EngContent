@@ -46,9 +46,7 @@
 </table>
 
 <p>Приклад:</p>
-<p>
-На столі лежить 5 ручок: 4 червоних і 1 синя
-</p> 
+<p class="smallGrayArticleText"> На столі лежить 5 ручок: 4 червоних і 1 синя</p> 
 <ul>
   <li>Give me a pen = дай мені <a class="smallGrayArticleText">(будь-яку)</a> ручку</li>
   <li>Give me the blue pen = дай мені <a class="smallGrayArticleText">(ту конкретну)</a> ручку</li>
