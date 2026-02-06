@@ -59,7 +59,7 @@
 </style>
 
 
-<table class="myTable" data-cell="32">
+<table class="myTable" data-cell="22">
     <tr>
         <th>Запитання</th>
         <th>Ствердження</th>
