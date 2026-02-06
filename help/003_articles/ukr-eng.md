@@ -12,6 +12,14 @@
   .grayText {
     color: #888888;
   }
+
+  
+  .smallGrayArticleText {
+    color: #888888;
+    font-size: 14px;
+    font-weight: 300;    /* тонкий / light */
+  }
+
   
 </style>
 
@@ -42,8 +50,16 @@
 На столі лежить 5 синіх ручок.
 </p> 
 <p>
-Give me a pen = дай мені ручку (будь-яку)
+Give me a pen = дай мені ручку
+</p> 
+<p class="smallGrayArticleText">
+(будь-яку)
 </p> 
 <p>
-Give me the pen = дай мені ручку (ти очікуєш що співбесідник знає що ти завжди пишеш ручкою певного виробника)
+Give me the pen = дай мені <a class="smallGrayArticleText">(ту)</a> ручку
 </p> 
+<p class="smallGrayArticleText">
+(ти очікуєш що співбесідник знає що ти завжди пишеш ручкою певного виробника)
+</p> 
+
+
