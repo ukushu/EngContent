@@ -74,7 +74,7 @@
             <div>love</div>
           </div>
         </td>
-        <td class="side-label">Майбутнє</td>
+        <th class="side-label">Майбутнє</th>
     </tr>
     <tr>
         <td class="c21">
@@ -93,7 +93,7 @@
             </div>
             <span class="redText">don't</span><br><span class="redText">doesn't</span>
         </td>
-        <td class="side-label">Теперішнє</td>
+        <th class="side-label">Теперішнє</th>
     </tr>
     <tr>
         <td class="c31">
@@ -111,7 +111,7 @@
             </div>
           <div class="redText">didn't</div>
         </td>
-        <td class="side-label">Минуле</td>
+        <th class="side-label">Минуле</th>
     </tr>
 </table>
 
