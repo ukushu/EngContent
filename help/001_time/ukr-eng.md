@@ -8,10 +8,10 @@
     vertical-align: middle;
   }
   .redText {
-    color: red;
+    color: #CC0000;
   }
   .noun {
-      color: gray;
+      color: #AAAAAA;
   }
 
   .horizontalBlocks {
