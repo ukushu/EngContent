@@ -37,7 +37,7 @@
 </tr>
 <tr>
   <td><span class="pronoun">Ти</span> You</td>
-  <td><span class="pronoun">Мебе</span> You</td>
+  <td><span class="pronoun">Тебе</span> You</td>
   <td><span class="pronoun">Тобі</span> You</td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@
 </tr>
 <tr>
   <td><span class="pronoun">Вона</span> She</td>
-  <td><span class="pronoun">її</span> Her</td>
+  <td><span class="pronoun">Її</span> Her</td>
   <td><span class="pronoun">Їй</span> Her</td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@
 <tr>
   <td><span class="pronoun">Вони</span> We</td>
   <td><span class="pronoun">Їх</span> Us</td>
-  <td><span class="pronoun">Їм</span> Us</td>
+  <td><span class="pronoun">Ним</span> Us</td>
 </tr>
 <tr>
   <td colspan="3">Про предмети</td>
