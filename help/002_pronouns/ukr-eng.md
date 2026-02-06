@@ -41,7 +41,7 @@
 <tr>
   <td class="pronoun noRightBorder">Я</td>
   <td class="noLeftBorder">I</td>
-  <td class="pronoun noRightBorder">Мене</td>Me
+  <td class="pronoun noRightBorder">Мене</td>
   <td class="noLeftBorder">Me</td>
   <td class="pronoun noRightBorder">Мені</td>
   <td class="noLeftBorder">Me</td>
