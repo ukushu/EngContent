@@ -1,5 +1,5 @@
 <style>
-  table.myTable {
+  table {
     border-collapse: collapse;
   }
   
