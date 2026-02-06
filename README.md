@@ -132,7 +132,7 @@
     </tr>
     <tr>
         <td>
-          <div style="display: flex; gap: 10px; align-items: flex-start;">
+          <div style="display: flex; gap: 10px; align-items: center;">
             <div class="red">Will</div>
             <div>
               I<br>you<br>we<br>they<br>he<br>she
@@ -141,7 +141,7 @@
           </div>
         </td>
         <td>
-          <div style="display: flex; gap: 10px; align-items: flex-start;">
+          <div style="display: flex; gap: 10px; align-items: center;">
             <div>
               I<br>you<br>we<br>they<br>he<br>she
             </div>
@@ -150,7 +150,7 @@
           </div>
         </td>
         <td>
-          <div style="display: flex; gap: 10px; align-items: flex-start;">
+          <div style="display: flex; gap: 10px; align-items: center;">
             <div>
               I<br>you<br>we<br>they<br>he<br>she
             </div>
