@@ -7,7 +7,7 @@
     </tr>
     <tr>
         <td>
-          <div style="display: flex; gap: 10px; align-items: center;">
+          <div style="display: flex; gap: 10px; align-items: center; padding: 5px;">
             <div style="color: red;">Will</div>
             <div>
               I<br>you<br>we<br>they<br>he<br>she
