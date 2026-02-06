@@ -25,6 +25,18 @@
     
   }
 
+  table[data-cell="11"] .c11 { background: #FFE066; }
+  table[data-cell="12"] .c12 { background: #FFE066; }
+  table[data-cell="13"] .c13 { background: #FFE066; }
+  
+  table[data-cell="21"] .c21 { background: #FFE066; }
+  table[data-cell="22"] .c22 { background: #FFE066; }
+  table[data-cell="23"] .c23 { background: #FFE066; }
+  
+  table[data-cell="31"] .c31 { background: #FFE066; }
+  table[data-cell="32"] .c32 { background: #FFE066; }
+  table[data-cell="33"] .c33 { background: #FFE066; }
+
 </style>
 
 
@@ -33,10 +45,10 @@
         <th>Запитання</th>
         <th>Ствердження</th>
         <th>Заперечення</th>
-        <th rowspan="3" class="side-label">Майбутнє</th>
+        <th rowspan="2" class="side-label">Майбутнє</th>
     </tr>
     <tr>
-        <td>
+        <td class="c11">
           <div class="horizontalBlocks">
             <div class="redText">Will</div>
             <div class="noun">
@@ -45,7 +57,7 @@
             <div>love?</div>
           </div>
         </td>
-        <td>
+        <td class="c12">
           <div class="horizontalBlocks">
             <div class="noun">
               I<br>you<br>we<br>they<br>he<br>she
@@ -54,7 +66,7 @@
             <div>love</div>
           </div>
         </td>
-        <td>
+        <td class="c13">
           <div class="horizontalBlocks">
             <div class="noun">
               I<br>you<br>we<br>they<br>he<br>she
@@ -65,47 +77,39 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td class="c21">
             <span class="redText">Do</span><br>
             <span class="redText">Does</span>
         </td>
-        <td>
+        <td class="c22">
             <div class="noun">
                I<br>you<br>we<br>they<br>he<br>she
             </div>
-        </td>
-        <td>
-            <div class="noun">
-               I<br>you<br>we<br>they<br>he<br>she
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
             <span class="redText">loves</span>
         </td>
-        <td>
+        <td class="c23">
+            <div class="noun">
+               I<br>you<br>we<br>they<br>he<br>she
+            </div>
             <span class="redText">don't</span><br><span class="redText">doesn't</span>
         </td>
     </tr>
     <tr>
-        <td class="redText">Did</td>
-        <td>
+        <td class="c31">
+          <div class="redText">Did</div>
+        </td>
+        <td class="c32">
             <div class="noun">
                I<br>you<br>we<br>they<br>he<br>she
             </div>
+          <div class="redText">loved</div>
         </td>
-        <td>
+        <td class="c33">
             <div class="noun">
                I<br>you<br>we<br>they<br>he<br>she
             </div>
+          <div class="redText">didn't</div>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td class="redText">loved</td>
-        <td class="redText">didn't</td>
     </tr>
 </table>
 
