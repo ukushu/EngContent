@@ -9,6 +9,13 @@
       color: #AAAAAA;
       width: 50px;
   }
+
+   .horizontalPronounBlock {
+    display: flex; 
+    gap: 10px; 
+    align-items: center; 
+    padding: 10px;
+  }
 </style>
 
 <h3>Займенники</h3>
@@ -54,6 +61,12 @@
 </tr>
 <tr>
   <td colspan="3">
+    <div>
+      <div class="horizontalPronounBlock">
+        <div class="noun">I<br>you<br>we<br>they<br>he<br>she</div>
+        <div>It</div>
+      </div>
+    </div>
   </td>
 </tr>
 </table>
