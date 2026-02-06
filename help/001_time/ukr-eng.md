@@ -1,4 +1,23 @@
-<table border="1" style="border-collapse: collapse;">
+<style>
+  table.myTable {
+    border-collapse: collapse;
+  }
+  table.myTable td {
+    border: 1px solid black;
+    padding: 5px;
+    vertical-align: middle;
+  }
+  .redText {
+    color: red;
+  }
+  .noun {
+      color: gray;
+  }
+
+</style>
+
+
+<table border="1" class="myTable">
     <tr>
         <th>Запитання</th>
         <th>Ствердження</th>
@@ -7,68 +26,80 @@
     </tr>
     <tr>
         <td>
-          <div style="display: flex; gap: 10px; align-items: center; padding: 5px;">
-            <div style="color: red;">Will</div>
-            <div>
+          <div style="display: flex; gap: 10px; align-items: center; padding: 15px;">
+            <div class="redText">Will</div>
+            <div class="noun">
               I<br>you<br>we<br>they<br>he<br>she
             </div>
             <div>love?</div>
           </div>
         </td>
         <td>
-          <div style="display: flex; gap: 10px; align-items: center;">
-            <div>
+          <div style="display: flex; gap: 10px; align-items: center; padding: 15px;">
+            <div class="noun">
               I<br>you<br>we<br>they<br>he<br>she
             </div>
-            <div style="color: red;">will</div>
+            <div class="redText">will</div>
             <div>love</div>
           </div>
         </td>
         <td>
-          <div style="display: flex; gap: 10px; align-items: center;">
-            <div>
+          <div style="display: flex; gap: 10px; align-items: center; padding: 15px;">
+            <div class="noun">
               I<br>you<br>we<br>they<br>he<br>she
             </div>
-            <div style="color: red;">won't</div>
+            <div class="redText">won't</div>
             <div>love</div>
           </div>
         </td>
     </tr>
     <tr>
         <td></td>
-        <td style="color: red;">will</td>
-        <td style="color: red;">won't</td>
+        <td class="redText">will</td>
+        <td class="redText">won't</td>
     </tr>
     <tr>
         <td>
-            <span style="color: red;">Do</span><br>
-            <span style="color: red;">Does</span>
+            <span class="redText">Do</span><br>
+            <span class="redText">Does</span>
         </td>
         <td>
-            I<br>you<br>we<br>they<br>he<br>she
+            <div class="noun">
+               I<br>you<br>we<br>they<br>he<br>she
+            </div>
         </td>
         <td>
-            I<br>you<br>we<br>they<br>he<br>she
+            <div class="noun">
+               I<br>you<br>we<br>they<br>he<br>she
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <span class="redText">loves</span>
+        </td>
+        <td>
+            <span class="redText">don't</span><br><span class="redText">doesn't</span>
+        </td>
+    </tr>
+    <tr>
+        <td class="redText">Did</td>
+        <td>
+            <div class="noun">
+               I<br>you<br>we<br>they<br>he<br>she
+            </div>
+        </td>
+        <td>
+            <div class="noun">
+               I<br>you<br>we<br>they<br>he<br>she
+            </div>
         </td>
     </tr>
     <tr>
         <td></td>
-        <td>
-            <span style="color: red;">loves</span>
-        </td>
-        <td>
-            <span style="color: red;">don't</span><br><span style="color: red;">doesn't</span>
-        </td>
-    </tr>
-    <tr>
-        <td style="color: red;">Did</td>
-        <td>I<br>you<br>we<br>they<br>he<br>she</td>
-        <td>I<br>you<br>we<br>they<br>he<br>she</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td style="color: red;">loved</td>
-        <td style="color: red;">didn't</td>
+        <td class="redText">loved</td>
+        <td class="redText">didn't</td>
     </tr>
 </table>
 
