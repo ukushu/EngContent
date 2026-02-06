@@ -26,14 +26,17 @@
 
 <table class="pronounsTbl">
 <tr>
-  <th>Хто?</th>
-  <th>Кого?</th>
-  <th>Кому?</th>
+  <th colspan="2">Хто?</th>
+  <th colspan="2">Кого?</th>
+  <th colspan="2">Кому?</th>
 </tr>
 <tr>
-  <td><span class="pronoun">Я</span> I</td>
-  <td><span class="pronoun">Мене</span> Me</td>
-  <td><span class="pronoun">Мені</span> Me</td>
+  <td class="pronoun">Я</td>
+  <td>I</td>
+  <td class="pronoun">Мене</td>Me
+  <td>Me</td>
+  <td class="pronoun">Мені</td>
+  <td>Me</td>
 </tr>
 <tr>
   <td><span class="pronoun">Ти</span> You</td>
