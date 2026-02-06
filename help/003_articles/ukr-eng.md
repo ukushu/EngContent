@@ -1,5 +1,12 @@
 <style>
+  table {
+    border-collapse: collapse;
+  }
 
+  .grayText {
+    color: #888888;
+  }
+  
 </style>
 
 <h3>Артиклі</h3>
@@ -7,21 +14,21 @@
 <table>
   <tr>
     <td>a</td>
-    <td>= any</td>
+    <td class="grayText">any</td>
     <td>будь-який предмет</td>
     <td>Один з багатьох, не конкретний</td>
   </tr>
   <tr>
     <td>an</td>
-    <td>= any</td>
+    <td class="grayText">any</td>
     <td>будь-який предмет</td>
-    <td>Перед словом, що починається на голосний звук</td>
+    <td class="grayText">Перед словом, що починається на голосний звук</td>
   </tr>
   <tr>
     <td>the</td>
-    <td>= that</td>
+    <td class="grayText">that</td>
     <td>той конкретний предмет</td>
-    <td>Коли співбесідник розуміє, про який предмет ідеться</td>
+    <td class="grayText">Коли співбесідник розуміє, про який предмет ідеться</td>
   </tr>
 </table>
 
