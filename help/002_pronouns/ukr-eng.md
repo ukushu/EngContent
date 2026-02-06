@@ -7,7 +7,7 @@
   
   .pronoun {
       color: #AAAAAA;
-      width: 30px;
+      width: 50px;
   }
 </style>
 
