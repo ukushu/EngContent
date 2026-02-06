@@ -12,6 +12,10 @@
   .noRightBorder {
       border-right: none;
   }
+
+  .noLeftBorder {
+    border-left: none;
+  }
   
   .pronoun {
       color: #AAAAAA;
@@ -36,51 +40,51 @@
 </tr>
 <tr>
   <td class="pronoun noRightBorder">Я</td>
-  <td>I</td>
+  <td class="noLeftBorder">I</td>
   <td class="pronoun noRightBorder">Мене</td>Me
-  <td>Me</td>
+  <td class="noLeftBorder">Me</td>
   <td class="pronoun noRightBorder">Мені</td>
-  <td>Me</td>
+  <td class="noLeftBorder">Me</td>
 </tr>
 <tr>
   <td class="pronoun noRightBorder">Ти</td>
-  <td>You</td>
+  <td class="noLeftBorder">You</td>
   <td class="pronoun noRightBorder">Тебе</td>
-  <td>You</td>
+  <td class="noLeftBorder">You</td>
   <td class="pronoun noRightBorder">Тобі</td>
-  <td>You</td>
+  <td class="noLeftBorder">You</td>
 </tr>
 <tr>
   <td class="pronoun noRightBorder">Він</td>
-  <td>He</td>
+  <td class="noLeftBorder">He</td>
   <td class="pronoun noRightBorder">Його</td>
-  <td>Him</td>
+  <td class="noLeftBorder">Him</td>
   <td class="pronoun noRightBorder">Йому</td>
-  <td>Him</td>
+  <td class="noLeftBorder">Him</td>
 </tr>
 <tr>
   <td class="pronoun noRightBorder"><span>Вона</td>
-  <td>She</td>
+  <td class="noLeftBorder">She</td>
   <td class="pronoun noRightBorder">Її</td>
-  <td>Her</td>
+  <td class="noLeftBorder">Her</td>
   <td class="pronoun noRightBorder">Їй</td>
-  <td>Her</td>
+  <td class="noLeftBorder">Her</td>
 </tr>
 <tr>
   <td class="pronoun noRightBorder">Ми</td>
-  <td>We</td>
+  <td class="noLeftBorder">We</td>
   <td class="pronoun noRightBorder">Нас</td>
-  <td>Us</td>
+  <td class="noLeftBorder">Us</td>
   <td class="pronoun noRightBorder">Нам</td>
-  <td>Us</td>
+  <td class="noLeftBorder">Us</td>
 </tr>
 <tr>
   <td class="pronoun noRightBorder">Вони</td>
-  <td>We</td>
+  <td class="noLeftBorder">We</td>
   <td class="pronoun noRightBorder">Їх</td>
-  <td>Us</td>
+  <td class="noLeftBorder">Us</td>
   <td class="pronoun noRightBorder">Ним</td>
-  <td>Us</td>
+  <td class="noLeftBorder">Us</td>
 </tr>
 <tr>
   <th colspan="6">Про предмети</th>
