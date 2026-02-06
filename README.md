@@ -123,56 +123,67 @@
 
 
 
-<table style="border-collapse: collapse; width: 100%; max-width: 600px; margin: 0 auto; color: white; font-family: Arial, sans-serif;">
+<table>
     <tr>
-        <th style="border: 1px solid white; padding: 10px;">Вопрос</th>
-        <th style="border: 1px solid white; padding: 10px;">Утверждение</th>
-        <th style="border: 1px solid white; padding: 10px;">Отрицание</th>
-        <th rowspan="3" style="border: 1px solid white; padding: 10px; writing-mode: vertical-rl; transform: rotate(180deg); font-weight: bold;">Будущее</th>
+        <th>Вопрос</th>
+        <th>Утверждение</th>
+        <th>Отрицание</th>
+        <th rowspan="3" class="side-label">Будущее</th>
     </tr>
     <tr>
-        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">Will</td>
-        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
-        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
+        <td class="red">Will</td>
+        <td class="italic">I<br>you<br>we<br>they<br>he<br>she</td>
+        <td class="italic">I<br>you<br>we<br>they<br>he<br>she</td>
     </tr>
     <tr>
         <td></td>
-        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">will</td>
-        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">won't</td>
+        <td class="red">will</td>
+        <td class="red">won't</td>
     </tr>
 
     <tr>
-        <th style="border: 1px solid white; padding: 10px;">Вопрос</th>
-        <th style="border: 1px solid white; padding: 10px;">Утверждение</th>
-        <th style="border: 1px solid white; padding: 10px;">Отрицание</th>
-        <th rowspan="2" style="border: 1px solid white; padding: 10px; writing-mode: vertical-rl; transform: rotate(180deg); font-weight: bold;">Настоящее</th>
+        <th>Вопрос</th>
+        <th>Утверждение</th>
+        <th>Отрицание</th>
+        <th rowspan="2" class="side-label">Настоящее</th>
     </tr>
     <tr>
-        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">Do<br>Does</td>
-        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
-        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
+        <td>
+            <span class="red">Do</span><br>
+            <span class="red">Does</span>
+        </td>
+        <td class="italic">
+            I<br>you<br>we<br>they<br>he<br>she
+        </td>
+        <td class="italic">
+            I<br>you<br>we<br>they<br>he<br>she
+        </td>
     </tr>
     <tr>
         <td></td>
-        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">loves</td>
-        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">don't<br>doesn't</td>
+        <td>
+            <span class="red">loves</span>
+        </td>
+        <td>
+            <span class="red">don't</span><br><span class="red">doesn't</span>
+        </td>
     </tr>
 
     <tr>
-        <th style="border: 1px solid white; padding: 10px;">Вопрос</th>
-        <th style="border: 1px solid white; padding: 10px;">Утверждение</th>
-        <th style="border: 1px solid white; padding: 10px;">Отрицание</th>
-        <th rowspan="1" style="border: 1px solid white; padding: 10px; writing-mode: vertical-rl; transform: rotate(180deg); font-weight: bold;">Прошлое</th>
+        <th>Вопрос</th>
+        <th>Утверждение</th>
+        <th>Отрицание</th>
+        <th rowspan="1" class="side-label">Прошлое</th>
     </tr>
     <tr>
-        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">Did</td>
-        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
-        <td style="border: 1px solid white; padding: 10px; font-style: italic; color: #aaa;">I<br>you<br>we<br>they<br>he<br>she</td>
+        <td class="red">Did</td>
+        <td class="italic">I<br>you<br>we<br>they<br>he<br>she</td>
+        <td class="italic">I<br>you<br>we<br>they<br>he<br>she</td>
     </tr>
     <tr>
         <td></td>
-        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">loved</td>
-        <td style="border: 1px solid white; padding: 10px; color: red; font-weight: bold;">didn't</td>
+        <td class="red">loved</td>
+        <td class="red">didn't</td>
     </tr>
 </table>
 
