@@ -53,17 +53,13 @@
         <td class="c11">
           <div class="horizontalBlocks">
             <div class="redText">Will</div>
-            <div class="noun">
-              I<br>you<br>we<br>they<br>he<br>she
-            </div>
+            <div class="noun">I<br>you<br>we<br>they<br>he<br>she</div>
             <div>love?</div>
           </div>
         </td>
         <td class="c12">
           <div class="horizontalBlocks">
-            <div class="noun">
-              I<br>you<br>we<br>they<br>he<br>she
-            </div>
+            <div class="noun">I<br>you<br>we<br>they<br>he<br>she</div>
             <div class="redText">will</div>
             <div>love</div>
           </div>
@@ -124,19 +120,24 @@
     </tr>
     <tr>
         <td class="c31">
-          <div class="redText">Did</div>
+          <div class="horizontalBlocks">
+            <div class="redText">Did</div>
+            <div class="noun">I<br>you<br>we<br>they<br>he<br>she</div>
+            <div>love</div>
+          </div>
         </td>
         <td class="c32">
-            <div class="noun">
-               I<br>you<br>we<br>they<br>he<br>she
-            </div>
-          <div>lov<span class="redText">ed</span></div>
+          <div class="horizontalBlocks">
+            <div class="noun">I<br>you<br>we<br>they<br>he<br>she</div>
+            <div>love<span class="redText">d</span></div>
+          </div>
         </td>
         <td class="c33">
-            <div class="noun">
-               I<br>you<br>we<br>they<br>he<br>she
-            </div>
-          <div class="redText">didn't</div>
+          <div class="horizontalBlocks">
+            <div class="noun">I<br>you<br>we<br>they<br>he<br>she</div>
+            <div><span class="redText">didn't</span></div>
+            <div>love</div>
+          </div>
         </td>
         <th class="side-label">Минуле</th>
     </tr>
