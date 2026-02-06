@@ -50,10 +50,10 @@
   <td><span class="pronoun">Їм</span> Us</td>
 </tr>
 <tr>
-  <td callspan="3">Про предмети</td>
+  <td colspan="3">Про предмети</td>
 </tr>
 <tr>
-  <td callspan="3">
+  <td colspan="3">
   </td>
 </tr>
 </table>
