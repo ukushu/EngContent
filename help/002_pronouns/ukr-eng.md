@@ -8,6 +8,10 @@
     padding: 5px;
     vertical-align: middle;
   }
+
+  .noRightBorder {
+      border-right: none;
+  }
   
   .pronoun {
       color: #AAAAAA;
@@ -31,58 +35,58 @@
   <th colspan="2">Кому?</th>
 </tr>
 <tr>
-  <td class="pronoun">Я</td>
+  <td class="pronoun noRightBorder">Я</td>
   <td>I</td>
-  <td class="pronoun">Мене</td>Me
+  <td class="pronoun noRightBorder">Мене</td>Me
   <td>Me</td>
-  <td class="pronoun">Мені</td>
+  <td class="pronoun noRightBorder">Мені</td>
   <td>Me</td>
 </tr>
 <tr>
-  <td class="pronoun">Ти</td>
+  <td class="pronoun noRightBorder">Ти</td>
   <td>You</td>
-  <td class="pronoun">Тебе</td>
+  <td class="pronoun noRightBorder">Тебе</td>
   <td>You</td>
-  <td class="pronoun">Тобі</td>
+  <td class="pronoun noRightBorder">Тобі</td>
   <td>You</td>
 </tr>
 <tr>
-  <td class="pronoun">Він</td>
+  <td class="pronoun noRightBorder">Він</td>
   <td>He</td>
-  <td class="pronoun">Його</td>
+  <td class="pronoun noRightBorder">Його</td>
   <td>Him</td>
-  <td class="pronoun">Йому</td>
+  <td class="pronoun noRightBorder">Йому</td>
   <td>Him</td>
 </tr>
 <tr>
-  <td class="pronoun"><span>Вона</td>
+  <td class="pronoun noRightBorder"><span>Вона</td>
   <td>She</td>
-  <td class="pronoun">Її</td>
+  <td class="pronoun noRightBorder">Її</td>
   <td>Her</td>
-  <td class="pronoun">Їй</td>
+  <td class="pronoun noRightBorder">Їй</td>
   <td>Her</td>
 </tr>
 <tr>
-  <td class="pronoun">Ми</td>
+  <td class="pronoun noRightBorder">Ми</td>
   <td>We</td>
-  <td class="pronoun">Нас</td>
+  <td class="pronoun noRightBorder">Нас</td>
   <td>Us</td>
-  <td class="pronoun">Нам</td>
+  <td class="pronoun noRightBorder">Нам</td>
   <td>Us</td>
 </tr>
 <tr>
-  <td class="pronoun">Вони</td>
+  <td class="pronoun noRightBorder">Вони</td>
   <td>We</td>
-  <td class="pronoun">Їх</td>
+  <td class="pronoun noRightBorder">Їх</td>
   <td>Us</td>
-  <td class="pronoun">Ним</td>
+  <td class="pronoun noRightBorder">Ним</td>
   <td>Us</td>
 </tr>
 <tr>
   <td colspan="6">Про предмети</td>
 </tr>
 <tr>
-  <td colspan="3"  class="pronoun">
+  <td colspan="3"  class="pronoun noRightBorder">
       I<br>you<br>we<br>they<br>he<br>she
   </td>
   <td colspan="3">
