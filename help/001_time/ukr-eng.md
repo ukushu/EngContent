@@ -28,6 +28,11 @@
     gap: 20px;
   }
 
+  .smallGrayText {
+    color: #888888;
+    font-size: 10px;
+  }
+
   table[data-cell="11"] .c11 { background: rgba(0, 140, 0, 0.3); }
   table[data-cell="12"] .c12 { background: rgba(0, 140, 0, 0.3); }
   table[data-cell="13"] .c13 { background: rgba(0, 140, 0, 0.3); }
@@ -83,7 +88,12 @@
             <div>love</div>
           </div>
         </td>
-        <th class="side-label">Майбутнє</th>
+        <th class="side-label">
+          <div class="verticalBlocks">
+            <span>Майбутнє</span>
+            <span class ="smallGrayText">won't = will not</span>
+          </div>
+        </th>
     </tr>
     <tr>
         <td class="c21">
@@ -126,7 +136,13 @@
             </div>
           </div>
         </td>
-        <th class="side-label">Теперішнє</th>
+        <th class="side-label">
+          <div class="verticalBlocks">
+            <span>Теперішнє</span>
+            <span class ="smallGrayText">don't = do not</span>
+            <span class ="smallGrayText">doesn't = does not</span>
+          </div>
+        </th>
     </tr>
     <tr>
         <td class="c31">
@@ -149,19 +165,15 @@
             <div>love</div>
           </div>
         </td>
-        <th class="side-label">Минуле</th>
+        <th class="side-label">
+          <div class="verticalBlocks">
+            <span>Минуле</span>
+            <span class ="smallGrayText">didn't = did not</span>
+          </div>
+        </th>
     </tr>
 </table>
 <br>
-
-<div>
-  <ul>
-    <li>"won't" = "will not"</li>
-    <li>"don't" = "do not"</li>
-    <li>"doesn't" = "does not"</li>
-    <li>"didn't" = "did not"</li>
-  </ul>
-</div>
 
 <div class="wrongNounsHelp">
   <h2>Правильні та неправильні дієслова</h2>
