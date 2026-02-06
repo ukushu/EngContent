@@ -48,7 +48,7 @@
 <p>Приклад:</p>
 <p class="smallGrayArticleText"> На столі лежить 5 ручок: 4 червоних і 1 синя</p> 
 <ul>
-  <li>Give me a pen = дай мені <a class="smallGrayArticleText">(будь-яку)</a> ручку</li>
-  <li>Give me the blue pen = дай мені <a class="smallGrayArticleText">(ту конкретну)</a> ручку</li>
+  <li>Give me a pen = дай мені ручку <a class="smallGrayArticleText">(будь-яку)</a></li>
+  <li>Give me the blue pen = дай мені синю ручку <a class="smallGrayArticleText">(ту конкретну - синю)</a></li>
 </ul>
 
