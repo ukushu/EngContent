@@ -127,8 +127,8 @@
     <tr>
         <th>Запитання</th>
         <th>Ствердження</th>
-        <th>Отрицание</th>
-        <th rowspan="3" class="side-label">Будущее</th>
+        <th>Заперечення</th>
+        <th rowspan="3" class="side-label">Майбутнє</th>
     </tr>
     <tr>
         <td>
@@ -148,13 +148,6 @@
         <td></td>
         <td class="red">will</td>
         <td class="red">won't</td>
-    </tr>
-
-    <tr>
-        <th>Вопрос</th>
-        <th>Утверждение</th>
-        <th>Отрицание</th>
-        <th rowspan="2" class="side-label">Настоящее</th>
     </tr>
     <tr>
         <td>
@@ -176,13 +169,6 @@
         <td>
             <span class="red">don't</span><br><span class="red">doesn't</span>
         </td>
-    </tr>
-
-    <tr>
-        <th>Вопрос</th>
-        <th>Утверждение</th>
-        <th>Отрицание</th>
-        <th rowspan="1" class="side-label">Прошлое</th>
     </tr>
     <tr>
         <td class="red">Did</td>
