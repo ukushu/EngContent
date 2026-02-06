@@ -66,7 +66,7 @@
 <tr>
   <td colspan="3">
     <div class="horizontalPronounBlock">
-      <div class="noun">I<br>you<br>we<br>they<br>he<br>she</div>
+      <div class="pronoun">I<br>you<br>we<br>they<br>he<br>she</div>
       <div>It</div>
     </div>
   </td>
