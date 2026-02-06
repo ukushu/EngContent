@@ -49,11 +49,8 @@
 <p>
 На столі лежить 5 синіх ручок.
 </p> 
-<p>
-Give me a pen = дай мені <a class="smallGrayArticleText">(будь-яку)</a> ручку
-</p> 
-<p>
-Give me the pen = дай мені <a class="smallGrayArticleText">(ту конкретну)</a> ручку
-</p> 
-
+<ul>
+  <li>Give me a pen = дай мені <a class="smallGrayArticleText">(будь-яку)</a> ручку</li>
+  <li>Give me the pen = дай мені <a class="smallGrayArticleText">(ту конкретну)</a> ручку</li>
+</ul>
 
