@@ -103,10 +103,16 @@
           </div>
         </td>
         <td class="c22">
-            <div class="noun">
-               I<br>you<br>we<br>they<br>he<br>she
+          <div class="verticalBlocks">
+            <div class="horizontalBlocks">
+              <div class="noun">I<br>you<br>we<br>they</div>
+              <div>love</div>
             </div>
-            love<span class="redText">s</span>
+            <div class="horizontalBlocks">
+              <div class="noun">he<br>she</div>
+              <div>love<span class="redText">s</span></div>
+            </div>
+          </div>
         </td>
         <td class="c23">
             <div class="noun">
