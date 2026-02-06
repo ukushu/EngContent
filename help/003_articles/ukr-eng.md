@@ -50,7 +50,7 @@
 На столі лежить 5 синіх ручок.
 </p> 
 <p>
-Give me a pen = дай мені ручку <a class="smallGrayArticleText">(будь-яку)</a> 
+Give me a pen = дай мені <a class="smallGrayArticleText">(будь-яку)</a> ручку
 </p> 
 <p>
 Give me the pen = дай мені <a class="smallGrayArticleText">(ту)</a> ручку <a class="smallGrayArticleText">(ти очікуєш що співбесідник знає що ти завжди пишеш ручкою певного виробника)</a> 
