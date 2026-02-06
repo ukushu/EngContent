@@ -3,7 +3,7 @@
     border-collapse: collapse;
   }
   table.myTable td {
-    border: 1px solid black;
+    border: 1px solid white;
     padding: 5px;
     vertical-align: middle;
   }
@@ -14,10 +14,17 @@
       color: gray;
   }
 
+  .horizontalBlocks {
+    display: flex; 
+    gap: 10px; 
+    align-items: center; 
+    padding: 15px;
+  }
+
 </style>
 
 
-<table border="1" class="myTable">
+<table class="myTable">
     <tr>
         <th>Запитання</th>
         <th>Ствердження</th>
@@ -26,7 +33,7 @@
     </tr>
     <tr>
         <td>
-          <div style="display: flex; gap: 10px; align-items: center; padding: 15px;">
+          <div class="horizontalBlocks">
             <div class="redText">Will</div>
             <div class="noun">
               I<br>you<br>we<br>they<br>he<br>she
@@ -35,7 +42,7 @@
           </div>
         </td>
         <td>
-          <div style="display: flex; gap: 10px; align-items: center; padding: 15px;">
+          <div class="horizontalBlocks">
             <div class="noun">
               I<br>you<br>we<br>they<br>he<br>she
             </div>
@@ -44,7 +51,7 @@
           </div>
         </td>
         <td>
-          <div style="display: flex; gap: 10px; align-items: center; padding: 15px;">
+          <div class="horizontalBlocks">
             <div class="noun">
               I<br>you<br>we<br>they<br>he<br>she
             </div>
