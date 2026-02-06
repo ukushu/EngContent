@@ -125,14 +125,23 @@
 
 <table>
     <tr>
-        <th>Вопрос</th>
-        <th>Утверждение</th>
+        <th>Запитання</th>
+        <th>Ствердження</th>
         <th>Отрицание</th>
         <th rowspan="3" class="side-label">Будущее</th>
     </tr>
     <tr>
-        <td class="red">Will</td>
-        <td class="italic">I<br>you<br>we<br>they<br>he<br>she</td>
+        <td>
+          <div style="display: flex; gap: 10px; align-items: flex-start;">
+            <div class="red">Will</div>
+            <div>
+              I<br>you<br>we<br>they<br>he<br>she
+            </div>
+            <div>Love?</div>
+            <div class="red">Will</div>
+          </div>
+        </td>
+        <td class="italic"></td>
         <td class="italic">I<br>you<br>we<br>they<br>he<br>she</td>
     </tr>
     <tr>
