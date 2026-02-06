@@ -2,6 +2,12 @@
   table.myTable {
     border-collapse: collapse;
   }
+  
+  table.myTable th {
+    padding: 5px;
+    vertical-align: middle;
+  }
+  
   table.myTable td {
     border: 1px solid white;
     padding: 5px;
