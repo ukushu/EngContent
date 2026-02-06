@@ -45,7 +45,6 @@
         <th>Запитання</th>
         <th>Ствердження</th>
         <th>Заперечення</th>
-        <th rowspan="2" class="side-label">Майбутнє</th>
     </tr>
     <tr>
         <td class="c11">
@@ -75,6 +74,7 @@
             <div>love</div>
           </div>
         </td>
+        <td class="side-label">Майбутнє</td>
     </tr>
     <tr>
         <td class="c21">
@@ -93,6 +93,7 @@
             </div>
             <span class="redText">don't</span><br><span class="redText">doesn't</span>
         </td>
+        <td class="side-label">Теперішнє</td>
     </tr>
     <tr>
         <td class="c31">
@@ -110,6 +111,11 @@
             </div>
           <div class="redText">didn't</div>
         </td>
+        <td class="side-label">Минуле</td>
     </tr>
 </table>
+
+
+
+
 
