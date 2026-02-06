@@ -90,11 +90,11 @@
   <th colspan="6">Про предмети</th>
 </tr>
 <tr>
-  <td class="pronoun noRightBorder">він<br>вона</td>
+  <td class="pronoun noRightBorder">Він<br>Вона</td>
   <td class="noLeftBorder">It</td>
-  <td class="pronoun noRightBorder">його<br>її</td>
+  <td class="pronoun noRightBorder">Його<br>Її</td>
   <td class="noLeftBorder">It</td>
-  <td class="pronoun noRightBorder">йому<br>їй</td>
+  <td class="pronoun noRightBorder">Йому<br>Їй</td>
   <td class="noLeftBorder">It</td>
 </tr>
 </table>
