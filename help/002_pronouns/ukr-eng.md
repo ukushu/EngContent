@@ -83,7 +83,7 @@
   <td>Us</td>
 </tr>
 <tr>
-  <td colspan="6">Про предмети</td>
+  <th colspan="6">Про предмети</th>
 </tr>
 <tr>
   <td colspan="3"  class="pronoun noRightBorder">
