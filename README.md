@@ -123,7 +123,7 @@
 
 
 
-<table>
+<table border="1" style="border-collapse: collapse;">
     <tr>
         <th>Запитання</th>
         <th>Ствердження</th>
